@@ -1,4 +1,4 @@
-# QMARKª - LOJINHA II - Construção de Site Comercial para Aprendizagem de Pensamento Computacional.
+# QMARKª - LOJINHA II -  Pensamento Computacional.
 Projeto desenvolvido sobre Front End sobre um e-commerce e aprofundamento em diversas tecnologias.
 
 | :placard: Vitrine.Dev |     |
